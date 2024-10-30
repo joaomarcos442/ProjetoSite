@@ -250,6 +250,13 @@ h2 {
   max-width: 500px;
 }
 
+#paragrafo-especial{
+  color: red;
+}
+#paragrafo-especial2{
+  color: rgb(16, 73, 14);
+}
+
 .product-card p {
   margin: 15px 0;
   font-size: 1.1em;
